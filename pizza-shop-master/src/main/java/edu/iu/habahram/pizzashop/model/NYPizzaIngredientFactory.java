@@ -24,7 +24,7 @@ public class NYPizzaIngredientFactory
 	}
 
 	public Pepperoni createPepperoni() {
-		return new Pepperoni();
+		return new NormalPepperoni();
 	}
 
 	public Clams createClam() {
